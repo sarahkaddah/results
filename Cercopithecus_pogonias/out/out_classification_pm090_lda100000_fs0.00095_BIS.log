@@ -1,0 +1,1759 @@
+Time kmer calculation: 0.000001 s
+Kmer table, number of sequence names: 112902
+Nb lignes et colonnes: (112902, 1024)
+
+Kmer table, number of sequences: 112902
+Kmer table, number of words: 1024
+Time kmer reading: 86.360236 s
+___________________
+Queue length: 1
+ Turn 0 with 112902 sequences
+   Nb lignes et nb colonnes (112902, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 4538.279211 s
+   Number of composantes: 1024 s
+   Number of sequences: 112902 s
+   Cluster time: 654.086342 s
+   Mate pair values: 0.909668 and 0.999947
+___________________
+Queue length: 2
+ Turn 1 with 106347 sequences
+   Nb lignes et nb colonnes (106347, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 4526.227396 s
+   Number of composantes: 1024 s
+   Number of sequences: 106347 s
+   Cluster time: 651.432160 s
+   Mate pair values: 0.943030 and 0.991805
+___________________
+Queue length: 3
+ Turn 2 with 6555 sequences
+   Nb lignes et nb colonnes (6555, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 22.315718 s
+   Number of composantes: 1024 s
+   Number of sequences: 6555 s
+   Cluster time: 0.799036 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 4
+ Turn 3 with 94373 sequences
+   Nb lignes et nb colonnes (94373, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3914.769992 s
+   Number of composantes: 1024 s
+   Number of sequences: 94373 s
+   Cluster time: 531.764720 s
+   Mate pair values: 0.782328 and 0.992632
+___________________
+Queue length: 3
+ Turn 4 with 11974 sequences
+   Nb lignes et nb colonnes (11974, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 66.072970 s
+   Number of composantes: 1024 s
+   Number of sequences: 11974 s
+   Cluster time: 3.595583 s
+   Mate pair values: 0.997503 and 0.997969
+___________________
+Queue length: 4
+ Turn 5 with 6390 sequences
+   Nb lignes et nb colonnes (6390, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 14.510766 s
+   Number of composantes: 1024 s
+   Number of sequences: 6390 s
+   Cluster time: 1.005237 s
+   Mate pair values: 0.987101 and 0.947324
+___________________
+Queue length: 5
+ Turn 6 with 165 sequences
+   Nb lignes et nb colonnes (165, 165)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.051829 s
+   Number of composantes: 165 s
+   Number of sequences: 165 s
+   Cluster time: 0.008657 s
+   Mate pair values: 1.000000 and 0.977099
+___________________
+Queue length: 6
+ Turn 7 with 8370 sequences
+   Nb lignes et nb colonnes (8370, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 26.210696 s
+   Number of composantes: 1024 s
+   Number of sequences: 8370 s
+   Cluster time: 1.766388 s
+   Mate pair values: 0.815088 and 0.930534
+___________________
+Queue length: 5
+ Turn 8 with 3604 sequences
+   Nb lignes et nb colonnes (3604, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 5.832881 s
+   Number of composantes: 1024 s
+   Number of sequences: 3604 s
+   Cluster time: 0.235064 s
+   Mate pair values: 0.996997 and 0.997860
+___________________
+Queue length: 6
+ Turn 9 with 1196 sequences
+   Nb lignes et nb colonnes (1196, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.098408 s
+   Number of composantes: 1024 s
+   Number of sequences: 1196 s
+   Cluster time: 0.009275 s
+   Mate pair values: 1.000000 and 0.999035
+___________________
+Queue length: 7
+ Turn 10 with 5194 sequences
+   Nb lignes et nb colonnes (5194, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 12.726812 s
+   Number of composantes: 1024 s
+   Number of sequences: 5194 s
+   Cluster time: 0.478045 s
+   Mate pair values: 0.782490 and 0.946000
+___________________
+Queue length: 6
+ Turn 11 with 131 sequences
+   Nb lignes et nb colonnes (131, 131)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.027740 s
+   Number of composantes: 131 s
+   Number of sequences: 131 s
+   Cluster time: 0.006444 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 7
+ Turn 12 with 34 sequences
+   Nb lignes et nb colonnes (34, 34)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002859 s
+   Number of composantes: 34 s
+   Number of sequences: 34 s
+   Cluster time: 0.001849 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 8
+ Turn 13 with 3271 sequences
+   Nb lignes et nb colonnes (3271, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.902743 s
+   Number of composantes: 1024 s
+   Number of sequences: 3271 s
+   Cluster time: 0.190163 s
+   Mate pair values: 0.938511 and 0.970137
+___________________
+Queue length: 9
+ Turn 14 with 333 sequences
+   Nb lignes et nb colonnes (333, 333)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.717982 s
+   Number of composantes: 333 s
+   Number of sequences: 333 s
+   Cluster time: 0.031307 s
+   Mate pair values: 0.973684 and 0.988950
+___________________
+Queue length: 10
+ Turn 15 with 1036 sequences
+   Nb lignes et nb colonnes (1036, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.137606 s
+   Number of composantes: 1024 s
+   Number of sequences: 1036 s
+   Cluster time: 0.006887 s
+   Mate pair values: 0.982713 and 0.940141
+___________________
+Queue length: 11
+ Turn 16 with 160 sequences
+   Nb lignes et nb colonnes (160, 160)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.048421 s
+   Number of composantes: 160 s
+   Number of sequences: 160 s
+   Cluster time: 0.008228 s
+   Mate pair values: 0.976744 and 0.986486
+___________________
+Queue length: 12
+ Turn 17 with 117 sequences
+   Nb lignes et nb colonnes (117, 117)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.020678 s
+   Number of composantes: 117 s
+   Number of sequences: 117 s
+   Cluster time: 0.005163 s
+   Mate pair values: 1.000000 and 0.980769
+___________________
+Queue length: 13
+ Turn 18 with 14 sequences
+   Nb lignes et nb colonnes (14, 14)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002173 s
+   Number of composantes: 14 s
+   Number of sequences: 14 s
+   Cluster time: 0.001847 s
+   Mate pair values: 0.600000 and 1.000000
+___________________
+Queue length: 12
+ Turn 19 with 19 sequences
+   Nb lignes et nb colonnes (19, 19)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002241 s
+   Number of composantes: 19 s
+   Number of sequences: 19 s
+   Cluster time: 0.001503 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 13
+ Turn 20 with 15 sequences
+   Nb lignes et nb colonnes (15, 15)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002236 s
+   Number of composantes: 15 s
+   Number of sequences: 15 s
+   Cluster time: 0.001817 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 14
+ Turn 21 with 2344 sequences
+   Nb lignes et nb colonnes (2344, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.482370 s
+   Number of composantes: 1024 s
+   Number of sequences: 2344 s
+   Cluster time: 0.072052 s
+   Mate pair values: 0.964034 and 0.959624
+___________________
+Queue length: 15
+ Turn 22 with 927 sequences
+   Nb lignes et nb colonnes (927, 927)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.071657 s
+   Number of composantes: 927 s
+   Number of sequences: 927 s
+   Cluster time: 0.005722 s
+   Mate pair values: 0.974504 and 0.991289
+___________________
+Queue length: 16
+ Turn 23 with 181 sequences
+   Nb lignes et nb colonnes (181, 181)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.066020 s
+   Number of composantes: 181 s
+   Number of sequences: 181 s
+   Cluster time: 0.010021 s
+   Mate pair values: 0.974684 and 0.970588
+___________________
+Queue length: 17
+ Turn 24 with 152 sequences
+   Nb lignes et nb colonnes (152, 152)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.040751 s
+   Number of composantes: 152 s
+   Number of sequences: 152 s
+   Cluster time: 0.007378 s
+   Mate pair values: 1.000000 and 0.981818
+___________________
+Queue length: 18
+ Turn 25 with 284 sequences
+   Nb lignes et nb colonnes (284, 284)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.246614 s
+   Number of composantes: 284 s
+   Number of sequences: 284 s
+   Cluster time: 0.021365 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 26 with 752 sequences
+   Nb lignes et nb colonnes (752, 752)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.126299 s
+   Number of composantes: 752 s
+   Number of sequences: 752 s
+   Cluster time: 0.003412 s
+   Mate pair values: 0.971074 and 0.892157
+___________________
+Queue length: 18
+ Turn 27 with 74 sequences
+   Nb lignes et nb colonnes (74, 74)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.007316 s
+   Number of composantes: 74 s
+   Number of sequences: 74 s
+   Cluster time: 0.002968 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 28 with 86 sequences
+   Nb lignes et nb colonnes (86, 86)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.009728 s
+   Number of composantes: 86 s
+   Number of sequences: 86 s
+   Cluster time: 0.003473 s
+   Mate pair values: 0.441176 and 1.000000
+___________________
+Queue length: 18
+ Turn 29 with 104 sequences
+   Nb lignes et nb colonnes (104, 104)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.015145 s
+   Number of composantes: 104 s
+   Number of sequences: 104 s
+   Cluster time: 0.004623 s
+   Mate pair values: 0.982759 and 0.586957
+___________________
+Queue length: 17
+ Turn 30 with 13 sequences
+   Nb lignes et nb colonnes (13, 13)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002145 s
+   Number of composantes: 13 s
+   Number of sequences: 13 s
+   Cluster time: 0.001364 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 18
+ Turn 31 with 11 sequences
+   Nb lignes et nb colonnes (11, 11)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002210 s
+   Number of composantes: 11 s
+   Number of sequences: 11 s
+   Cluster time: 0.001389 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 17
+ Turn 32 with 8 sequences
+   Nb lignes et nb colonnes (8, 8)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002186 s
+   Number of composantes: 8 s
+   Number of sequences: 8 s
+   Cluster time: 0.001329 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 16
+ Turn 33 with 12 sequences
+   Nb lignes et nb colonnes (12, 12)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002216 s
+   Number of composantes: 12 s
+   Number of sequences: 12 s
+   Cluster time: 0.001394 s
+   Mate pair values: 0.000000 and 1.000000
+___________________
+Queue length: 15
+ Turn 34 with 3 sequences
+   Nb lignes et nb colonnes (3, 3)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002030 s
+   Number of composantes: 3 s
+   Number of sequences: 3 s
+   Cluster time: 0.001214 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 14
+ Turn 35 with 1065 sequences
+   Nb lignes et nb colonnes (1065, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.074307 s
+   Number of composantes: 1024 s
+   Number of sequences: 1065 s
+   Cluster time: 0.007649 s
+   Mate pair values: 0.995541 and 0.976190
+___________________
+Queue length: 15
+ Turn 36 with 1279 sequences
+   Nb lignes et nb colonnes (1279, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.142221 s
+   Number of composantes: 1024 s
+   Number of sequences: 1279 s
+   Cluster time: 0.011552 s
+   Mate pair values: 0.973913 and 0.995704
+___________________
+Queue length: 16
+ Turn 37 with 574 sequences
+   Nb lignes et nb colonnes (574, 574)
+   Ratio of explicative variable: 1.000000
+   Distance time: 1.887902 s
+   Number of composantes: 574 s
+   Number of sequences: 574 s
+   Cluster time: 0.094580 s
+   Mate pair values: 0.982405 and 0.957082
+___________________
+Queue length: 17
+ Turn 38 with 353 sequences
+   Nb lignes et nb colonnes (353, 353)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.452724 s
+   Number of composantes: 353 s
+   Number of sequences: 353 s
+   Cluster time: 0.035306 s
+   Mate pair values: 0.979167 and 0.952153
+___________________
+Queue length: 18
+ Turn 39 with 102 sequences
+   Nb lignes et nb colonnes (102, 102)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.014987 s
+   Number of composantes: 102 s
+   Number of sequences: 102 s
+   Cluster time: 0.004710 s
+   Mate pair values: 1.000000 and 0.985714
+___________________
+Queue length: 19
+ Turn 40 with 79 sequences
+   Nb lignes et nb colonnes (79, 79)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.008355 s
+   Number of composantes: 79 s
+   Number of sequences: 79 s
+   Cluster time: 0.003187 s
+   Mate pair values: 0.875000 and 1.000000
+___________________
+Queue length: 18
+ Turn 41 with 110 sequences
+   Nb lignes et nb colonnes (110, 110)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.017704 s
+   Number of composantes: 110 s
+   Number of sequences: 110 s
+   Cluster time: 0.005009 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 42 with 42 sequences
+   Nb lignes et nb colonnes (42, 42)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003274 s
+   Number of composantes: 42 s
+   Number of sequences: 42 s
+   Cluster time: 0.001958 s
+   Mate pair values: 1.000000 and 0.965517
+___________________
+Queue length: 20
+ Turn 43 with 248 sequences
+   Nb lignes et nb colonnes (248, 248)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.165779 s
+   Number of composantes: 248 s
+   Number of sequences: 248 s
+   Cluster time: 0.016320 s
+   Mate pair values: 0.891304 and 0.995050
+___________________
+Queue length: 19
+ Turn 44 with 36 sequences
+   Nb lignes et nb colonnes (36, 36)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003008 s
+   Number of composantes: 36 s
+   Number of sequences: 36 s
+   Cluster time: 0.001880 s
+   Mate pair values: 0.900000 and 1.000000
+___________________
+Queue length: 20
+ Turn 45 with 58 sequences
+   Nb lignes et nb colonnes (58, 58)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.004766 s
+   Number of composantes: 58 s
+   Number of sequences: 58 s
+   Cluster time: 0.002403 s
+   Mate pair values: 1.000000 and 0.977273
+___________________
+Queue length: 21
+ Turn 46 with 16 sequences
+   Nb lignes et nb colonnes (16, 16)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002224 s
+   Number of composantes: 16 s
+   Number of sequences: 16 s
+   Cluster time: 0.001407 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 22
+ Turn 47 with 8 sequences
+   Nb lignes et nb colonnes (8, 8)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002065 s
+   Number of composantes: 8 s
+   Number of sequences: 8 s
+   Cluster time: 0.001322 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 23
+ Turn 48 with 5 sequences
+   Nb lignes et nb colonnes (5, 5)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002121 s
+   Number of composantes: 5 s
+   Number of sequences: 5 s
+   Cluster time: 0.001243 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 22
+ Turn 49 with 168 sequences
+   Nb lignes et nb colonnes (168, 168)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.054427 s
+   Number of composantes: 168 s
+   Number of sequences: 168 s
+   Cluster time: 0.008693 s
+   Mate pair values: 0.989362 and 0.986486
+___________________
+Queue length: 23
+ Turn 50 with 897 sequences
+   Nb lignes et nb colonnes (897, 897)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.038987 s
+   Number of composantes: 897 s
+   Number of sequences: 897 s
+   Cluster time: 0.005176 s
+   Mate pair values: 0.954114 and 0.815094
+___________________
+Queue length: 22
+ Turn 51 with 1164 sequences
+   Nb lignes et nb colonnes (1164, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.068960 s
+   Number of composantes: 1024 s
+   Number of sequences: 1164 s
+   Cluster time: 0.009797 s
+   Mate pair values: 0.999029 and 0.962687
+___________________
+Queue length: 23
+ Turn 52 with 115 sequences
+   Nb lignes et nb colonnes (115, 115)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.020195 s
+   Number of composantes: 115 s
+   Number of sequences: 115 s
+   Cluster time: 0.005267 s
+   Mate pair values: 0.947368 and 0.974026
+___________________
+Queue length: 24
+ Turn 53 with 233 sequences
+   Nb lignes et nb colonnes (233, 233)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.137495 s
+   Number of composantes: 233 s
+   Number of sequences: 233 s
+   Cluster time: 0.015462 s
+   Mate pair values: 0.963855 and 0.993333
+___________________
+Queue length: 25
+ Turn 54 with 341 sequences
+   Nb lignes et nb colonnes (341, 341)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.402693 s
+   Number of composantes: 341 s
+   Number of sequences: 341 s
+   Cluster time: 0.032879 s
+   Mate pair values: 0.917722 and 0.994536
+___________________
+Queue length: 26
+ Turn 55 with 209 sequences
+   Nb lignes et nb colonnes (209, 209)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.102910 s
+   Number of composantes: 209 s
+   Number of sequences: 209 s
+   Cluster time: 0.013080 s
+   Mate pair values: 1.000000 and 0.984211
+___________________
+Queue length: 27
+ Turn 56 with 144 sequences
+   Nb lignes et nb colonnes (144, 144)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.036310 s
+   Number of composantes: 144 s
+   Number of sequences: 144 s
+   Cluster time: 0.007090 s
+   Mate pair values: 0.807692 and 0.983051
+___________________
+Queue length: 26
+ Turn 57 with 70 sequences
+   Nb lignes et nb colonnes (70, 70)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.006675 s
+   Number of composantes: 70 s
+   Number of sequences: 70 s
+   Cluster time: 0.002885 s
+   Mate pair values: 1.000000 and 0.978261
+___________________
+Queue length: 27
+ Turn 58 with 32 sequences
+   Nb lignes et nb colonnes (32, 32)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002803 s
+   Number of composantes: 32 s
+   Number of sequences: 32 s
+   Cluster time: 0.001758 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 28
+ Turn 59 with 14 sequences
+   Nb lignes et nb colonnes (14, 14)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002302 s
+   Number of composantes: 14 s
+   Number of sequences: 14 s
+   Cluster time: 0.001499 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 29
+ Turn 60 with 96 sequences
+   Nb lignes et nb colonnes (96, 96)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.013253 s
+   Number of composantes: 96 s
+   Number of sequences: 96 s
+   Cluster time: 0.004096 s
+   Mate pair values: 0.666667 and 0.977011
+___________________
+Queue length: 28
+ Turn 61 with 29 sequences
+   Nb lignes et nb colonnes (29, 29)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002589 s
+   Number of composantes: 29 s
+   Number of sequences: 29 s
+   Cluster time: 0.001676 s
+   Mate pair values: 0.750000 and 1.000000
+___________________
+Queue length: 27
+ Turn 62 with 13 sequences
+   Nb lignes et nb colonnes (13, 13)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002281 s
+   Number of composantes: 13 s
+   Number of sequences: 13 s
+   Cluster time: 0.001402 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 28
+ Turn 63 with 26 sequences
+   Nb lignes et nb colonnes (26, 26)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002547 s
+   Number of composantes: 26 s
+   Number of sequences: 26 s
+   Cluster time: 0.001684 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 29
+ Turn 64 with 10 sequences
+   Nb lignes et nb colonnes (10, 10)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002176 s
+   Number of composantes: 10 s
+   Number of sequences: 10 s
+   Cluster time: 0.001377 s
+   Mate pair values: 0.000000 and 1.000000
+___________________
+Queue length: 28
+ Turn 65 with 44 sequences
+   Nb lignes et nb colonnes (44, 44)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003388 s
+   Number of composantes: 44 s
+   Number of sequences: 44 s
+   Cluster time: 0.001999 s
+   Mate pair values: 0.961538 and 1.000000
+___________________
+Queue length: 29
+ Turn 66 with 14 sequences
+   Nb lignes et nb colonnes (14, 14)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002188 s
+   Number of composantes: 14 s
+   Number of sequences: 14 s
+   Cluster time: 0.001400 s
+   Mate pair values: 1.000000 and 0.833333
+___________________
+Queue length: 28
+ Turn 67 with 11 sequences
+   Nb lignes et nb colonnes (11, 11)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002162 s
+   Number of composantes: 11 s
+   Number of sequences: 11 s
+   Cluster time: 0.001335 s
+   Mate pair values: 1.000000 and 0.666667
+___________________
+Queue length: 27
+ Turn 68 with 5 sequences
+   Nb lignes et nb colonnes (5, 5)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002370 s
+   Number of composantes: 5 s
+   Number of sequences: 5 s
+   Cluster time: 0.001297 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 28
+ Turn 69 with 4 sequences
+   Nb lignes et nb colonnes (4, 4)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002009 s
+   Number of composantes: 4 s
+   Number of sequences: 4 s
+   Cluster time: 0.001250 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 29
+ Turn 70 with 4 sequences
+   Nb lignes et nb colonnes (4, 4)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002101 s
+   Number of composantes: 4 s
+   Number of sequences: 4 s
+   Cluster time: 0.001658 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 28
+ Turn 71 with 74 sequences
+   Nb lignes et nb colonnes (74, 74)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.007179 s
+   Number of composantes: 74 s
+   Number of sequences: 74 s
+   Cluster time: 0.002933 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 29
+ Turn 72 with 94 sequences
+   Nb lignes et nb colonnes (94, 94)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.012596 s
+   Number of composantes: 94 s
+   Number of sequences: 94 s
+   Cluster time: 0.003974 s
+   Mate pair values: 0.916667 and 1.000000
+___________________
+Queue length: 30
+ Turn 73 with 134 sequences
+   Nb lignes et nb colonnes (134, 134)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.028883 s
+   Number of composantes: 134 s
+   Number of sequences: 134 s
+   Cluster time: 0.006035 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 31
+ Turn 74 with 1030 sequences
+   Nb lignes et nb colonnes (1030, 1024)
+   Ratio of explicative variable: 1.000000
+   Distance time: 3.105510 s
+   Number of composantes: 1024 s
+   Number of sequences: 1030 s
+   Cluster time: 0.007145 s
+   Mate pair values: 0.961538 and 0.993865
+___________________
+Queue length: 32
+ Turn 75 with 77 sequences
+   Nb lignes et nb colonnes (77, 77)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.008741 s
+   Number of composantes: 77 s
+   Number of sequences: 77 s
+   Cluster time: 0.003348 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 33
+ Turn 76 with 38 sequences
+   Nb lignes et nb colonnes (38, 38)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002957 s
+   Number of composantes: 38 s
+   Number of sequences: 38 s
+   Cluster time: 0.001889 s
+   Mate pair values: 0.600000 and 1.000000
+___________________
+Queue length: 32
+ Turn 77 with 150 sequences
+   Nb lignes et nb colonnes (150, 150)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.040550 s
+   Number of composantes: 150 s
+   Number of sequences: 150 s
+   Cluster time: 0.007461 s
+   Mate pair values: 0.930233 and 1.000000
+___________________
+Queue length: 33
+ Turn 78 with 83 sequences
+   Nb lignes et nb colonnes (83, 83)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.009750 s
+   Number of composantes: 83 s
+   Number of sequences: 83 s
+   Cluster time: 0.003630 s
+   Mate pair values: 0.743590 and 0.977273
+___________________
+Queue length: 32
+ Turn 79 with 183 sequences
+   Nb lignes et nb colonnes (183, 183)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.068966 s
+   Number of composantes: 183 s
+   Number of sequences: 183 s
+   Cluster time: 0.010342 s
+   Mate pair values: 0.989899 and 0.964286
+___________________
+Queue length: 33
+ Turn 80 with 158 sequences
+   Nb lignes et nb colonnes (158, 158)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.047365 s
+   Number of composantes: 158 s
+   Number of sequences: 158 s
+   Cluster time: 0.008290 s
+   Mate pair values: 0.678571 and 0.953846
+___________________
+Queue length: 32
+ Turn 81 with 190 sequences
+   Nb lignes et nb colonnes (190, 190)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.081493 s
+   Number of composantes: 190 s
+   Number of sequences: 190 s
+   Cluster time: 0.011525 s
+   Mate pair values: 1.000000 and 0.982353
+___________________
+Queue length: 33
+ Turn 82 with 19 sequences
+   Nb lignes et nb colonnes (19, 19)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002567 s
+   Number of composantes: 19 s
+   Number of sequences: 19 s
+   Cluster time: 0.001671 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 34
+ Turn 83 with 46 sequences
+   Nb lignes et nb colonnes (46, 46)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003739 s
+   Number of composantes: 46 s
+   Number of sequences: 46 s
+   Cluster time: 0.002095 s
+   Mate pair values: 1.000000 and 0.666667
+___________________
+Queue length: 33
+ Turn 84 with 24 sequences
+   Nb lignes et nb colonnes (24, 24)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002506 s
+   Number of composantes: 24 s
+   Number of sequences: 24 s
+   Cluster time: 0.001754 s
+   Mate pair values: 0.833333 and 1.000000
+___________________
+Queue length: 32
+ Turn 85 with 26 sequences
+   Nb lignes et nb colonnes (26, 26)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002439 s
+   Number of composantes: 26 s
+   Number of sequences: 26 s
+   Cluster time: 0.001638 s
+   Mate pair values: 1.000000 and 0.933333
+___________________
+Queue length: 33
+ Turn 86 with 6 sequences
+   Nb lignes et nb colonnes (6, 6)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002139 s
+   Number of composantes: 6 s
+   Number of sequences: 6 s
+   Cluster time: 0.001334 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 32
+ Turn 87 with 9 sequences
+   Nb lignes et nb colonnes (9, 9)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002122 s
+   Number of composantes: 9 s
+   Number of sequences: 9 s
+   Cluster time: 0.001358 s
+   Mate pair values: 0.750000 and 1.000000
+___________________
+Queue length: 31
+ Turn 88 with 5 sequences
+   Nb lignes et nb colonnes (5, 5)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002110 s
+   Number of composantes: 5 s
+   Number of sequences: 5 s
+   Cluster time: 0.001238 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 30
+ Turn 89 with 6 sequences
+   Nb lignes et nb colonnes (6, 6)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002044 s
+   Number of composantes: 6 s
+   Number of sequences: 6 s
+   Cluster time: 0.001315 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 29
+ Turn 90 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002076 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001384 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 28
+ Turn 91 with 19 sequences
+   Nb lignes et nb colonnes (19, 19)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002238 s
+   Number of composantes: 19 s
+   Number of sequences: 19 s
+   Cluster time: 0.001499 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 29
+ Turn 92 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002157 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001343 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 28
+ Turn 93 with 18 sequences
+   Nb lignes et nb colonnes (18, 18)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002185 s
+   Number of composantes: 18 s
+   Number of sequences: 18 s
+   Cluster time: 0.001480 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 29
+ Turn 94 with 26 sequences
+   Nb lignes et nb colonnes (26, 26)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002444 s
+   Number of composantes: 26 s
+   Number of sequences: 26 s
+   Cluster time: 0.001601 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 30
+ Turn 95 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002043 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001271 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 29
+ Turn 96 with 3 sequences
+   Nb lignes et nb colonnes (3, 3)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002003 s
+   Number of composantes: 3 s
+   Number of sequences: 3 s
+   Cluster time: 0.001469 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 28
+ Turn 97 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002039 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001267 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 27
+ Turn 98 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002026 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001231 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 26
+ Turn 99 with 47 sequences
+   Nb lignes et nb colonnes (47, 47)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003715 s
+   Number of composantes: 47 s
+   Number of sequences: 47 s
+   Cluster time: 0.002045 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 27
+ Turn 100 with 27 sequences
+   Nb lignes et nb colonnes (27, 27)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002483 s
+   Number of composantes: 27 s
+   Number of sequences: 27 s
+   Cluster time: 0.001633 s
+   Mate pair values: 0.888889 and 1.000000
+___________________
+Queue length: 26
+ Turn 101 with 82 sequences
+   Nb lignes et nb colonnes (82, 82)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.009642 s
+   Number of composantes: 82 s
+   Number of sequences: 82 s
+   Cluster time: 0.003439 s
+   Mate pair values: 0.875000 and 1.000000
+___________________
+Queue length: 25
+ Turn 102 with 12 sequences
+   Nb lignes et nb colonnes (12, 12)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002282 s
+   Number of composantes: 12 s
+   Number of sequences: 12 s
+   Cluster time: 0.001412 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 26
+ Turn 103 with 81 sequences
+   Nb lignes et nb colonnes (81, 81)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.010243 s
+   Number of composantes: 81 s
+   Number of sequences: 81 s
+   Cluster time: 0.003604 s
+   Mate pair values: 0.952381 and 0.966667
+___________________
+Queue length: 27
+ Turn 104 with 53 sequences
+   Nb lignes et nb colonnes (53, 53)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.004630 s
+   Number of composantes: 53 s
+   Number of sequences: 53 s
+   Cluster time: 0.002420 s
+   Mate pair values: 0.555556 and 1.000000
+___________________
+Queue length: 26
+ Turn 105 with 978 sequences
+   Nb lignes et nb colonnes (978, 978)
+   Ratio of explicative variable: 1.000000
+   Distance time: 2.946964 s
+   Number of composantes: 978 s
+   Number of sequences: 978 s
+   Cluster time: 0.006882 s
+   Mate pair values: 0.955072 and 0.885417
+___________________
+Queue length: 25
+ Turn 106 with 52 sequences
+   Nb lignes et nb colonnes (52, 52)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.004898 s
+   Number of composantes: 52 s
+   Number of sequences: 52 s
+   Cluster time: 0.002526 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 26
+ Turn 107 with 70 sequences
+   Nb lignes et nb colonnes (70, 70)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.007553 s
+   Number of composantes: 70 s
+   Number of sequences: 70 s
+   Cluster time: 0.003086 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 27
+ Turn 108 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002216 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001404 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 26
+ Turn 109 with 107 sequences
+   Nb lignes et nb colonnes (107, 107)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.017360 s
+   Number of composantes: 107 s
+   Number of sequences: 107 s
+   Cluster time: 0.004872 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 27
+ Turn 110 with 43 sequences
+   Nb lignes et nb colonnes (43, 43)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003503 s
+   Number of composantes: 43 s
+   Number of sequences: 43 s
+   Cluster time: 0.002055 s
+   Mate pair values: 0.500000 and 1.000000
+___________________
+Queue length: 26
+ Turn 111 with 84 sequences
+   Nb lignes et nb colonnes (84, 84)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.009274 s
+   Number of composantes: 84 s
+   Number of sequences: 84 s
+   Cluster time: 0.003441 s
+   Mate pair values: 0.974359 and 1.000000
+___________________
+Queue length: 27
+ Turn 112 with 99 sequences
+   Nb lignes et nb colonnes (99, 99)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.014202 s
+   Number of composantes: 99 s
+   Number of sequences: 99 s
+   Cluster time: 0.004386 s
+   Mate pair values: 0.800000 and 0.986486
+___________________
+Queue length: 26
+ Turn 113 with 170 sequences
+   Nb lignes et nb colonnes (170, 170)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.057212 s
+   Number of composantes: 170 s
+   Number of sequences: 170 s
+   Cluster time: 0.008992 s
+   Mate pair values: 0.771429 and 1.000000
+___________________
+Queue length: 25
+ Turn 114 with 20 sequences
+   Nb lignes et nb colonnes (20, 20)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002272 s
+   Number of composantes: 20 s
+   Number of sequences: 20 s
+   Cluster time: 0.001559 s
+   Mate pair values: 0.375000 and 1.000000
+___________________
+Queue length: 24
+ Turn 115 with 11 sequences
+   Nb lignes et nb colonnes (11, 11)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002160 s
+   Number of composantes: 11 s
+   Number of sequences: 11 s
+   Cluster time: 0.001345 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 25
+ Turn 116 with 8 sequences
+   Nb lignes et nb colonnes (8, 8)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002116 s
+   Number of composantes: 8 s
+   Number of sequences: 8 s
+   Cluster time: 0.001295 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 24
+ Turn 117 with 15 sequences
+   Nb lignes et nb colonnes (15, 15)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002243 s
+   Number of composantes: 15 s
+   Number of sequences: 15 s
+   Cluster time: 0.001433 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 23
+ Turn 118 with 11 sequences
+   Nb lignes et nb colonnes (11, 11)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002109 s
+   Number of composantes: 11 s
+   Number of sequences: 11 s
+   Cluster time: 0.001368 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 22
+ Turn 119 with 15 sequences
+   Nb lignes et nb colonnes (15, 15)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002179 s
+   Number of composantes: 15 s
+   Number of sequences: 15 s
+   Cluster time: 0.001391 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 23
+ Turn 120 with 4 sequences
+   Nb lignes et nb colonnes (4, 4)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002047 s
+   Number of composantes: 4 s
+   Number of sequences: 4 s
+   Cluster time: 0.001264 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 22
+ Turn 121 with 14 sequences
+   Nb lignes et nb colonnes (14, 14)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002216 s
+   Number of composantes: 14 s
+   Number of sequences: 14 s
+   Cluster time: 0.001343 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 23
+ Turn 122 with 4 sequences
+   Nb lignes et nb colonnes (4, 4)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002071 s
+   Number of composantes: 4 s
+   Number of sequences: 4 s
+   Cluster time: 0.001278 s
+   Mate pair values: 0.000000 and 1.000000
+___________________
+Queue length: 22
+ Turn 123 with 23 sequences
+   Nb lignes et nb colonnes (23, 23)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002359 s
+   Number of composantes: 23 s
+   Number of sequences: 23 s
+   Cluster time: 0.001577 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 23
+ Turn 124 with 3 sequences
+   Nb lignes et nb colonnes (3, 3)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002039 s
+   Number of composantes: 3 s
+   Number of sequences: 3 s
+   Cluster time: 0.001234 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 22
+ Turn 125 with 32 sequences
+   Nb lignes et nb colonnes (32, 32)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002694 s
+   Number of composantes: 32 s
+   Number of sequences: 32 s
+   Cluster time: 0.001788 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 23
+ Turn 126 with 15 sequences
+   Nb lignes et nb colonnes (15, 15)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002206 s
+   Number of composantes: 15 s
+   Number of sequences: 15 s
+   Cluster time: 0.001389 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 24
+ Turn 127 with 6 sequences
+   Nb lignes et nb colonnes (6, 6)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002064 s
+   Number of composantes: 6 s
+   Number of sequences: 6 s
+   Cluster time: 0.001297 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 23
+ Turn 128 with 6 sequences
+   Nb lignes et nb colonnes (6, 6)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002087 s
+   Number of composantes: 6 s
+   Number of sequences: 6 s
+   Cluster time: 0.001246 s
+   Mate pair values: 1.000000 and 0.500000
+___________________
+Queue length: 22
+ Turn 129 with 60 sequences
+   Nb lignes et nb colonnes (60, 60)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.005471 s
+   Number of composantes: 60 s
+   Number of sequences: 60 s
+   Cluster time: 0.002873 s
+   Mate pair values: 1.000000 and 0.897436
+___________________
+Queue length: 21
+ Turn 130 with 21 sequences
+   Nb lignes et nb colonnes (21, 21)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002403 s
+   Number of composantes: 21 s
+   Number of sequences: 21 s
+   Cluster time: 0.001615 s
+   Mate pair values: 1.000000 and 0.800000
+___________________
+Queue length: 20
+ Turn 131 with 20 sequences
+   Nb lignes et nb colonnes (20, 20)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002357 s
+   Number of composantes: 20 s
+   Number of sequences: 20 s
+   Cluster time: 0.001552 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 21
+ Turn 132 with 32 sequences
+   Nb lignes et nb colonnes (32, 32)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002783 s
+   Number of composantes: 32 s
+   Number of sequences: 32 s
+   Cluster time: 0.001781 s
+   Mate pair values: 0.846154 and 0.894737
+___________________
+Queue length: 20
+ Turn 133 with 62 sequences
+   Nb lignes et nb colonnes (62, 62)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.005579 s
+   Number of composantes: 62 s
+   Number of sequences: 62 s
+   Cluster time: 0.002818 s
+   Mate pair values: 0.666667 and 1.000000
+___________________
+Queue length: 19
+ Turn 134 with 8 sequences
+   Nb lignes et nb colonnes (8, 8)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002225 s
+   Number of composantes: 8 s
+   Number of sequences: 8 s
+   Cluster time: 0.001363 s
+   Mate pair values: 0.500000 and 1.000000
+___________________
+Queue length: 18
+ Turn 135 with 95 sequences
+   Nb lignes et nb colonnes (95, 95)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.012964 s
+   Number of composantes: 95 s
+   Number of sequences: 95 s
+   Cluster time: 0.004011 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 136 with 12 sequences
+   Nb lignes et nb colonnes (12, 12)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002177 s
+   Number of composantes: 12 s
+   Number of sequences: 12 s
+   Cluster time: 0.001382 s
+   Mate pair values: 0.500000 and 1.000000
+___________________
+Queue length: 18
+ Turn 137 with 45 sequences
+   Nb lignes et nb colonnes (45, 45)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003502 s
+   Number of composantes: 45 s
+   Number of sequences: 45 s
+   Cluster time: 0.002072 s
+   Mate pair values: 1.000000 and 0.600000
+___________________
+Queue length: 17
+ Turn 138 with 39 sequences
+   Nb lignes et nb colonnes (39, 39)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.003002 s
+   Number of composantes: 39 s
+   Number of sequences: 39 s
+   Cluster time: 0.001850 s
+   Mate pair values: 0.714286 and 1.000000
+___________________
+Queue length: 16
+ Turn 139 with 9 sequences
+   Nb lignes et nb colonnes (9, 9)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002151 s
+   Number of composantes: 9 s
+   Number of sequences: 9 s
+   Cluster time: 0.001368 s
+   Mate pair values: 0.500000 and 1.000000
+___________________
+Queue length: 15
+ Turn 140 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002024 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001234 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 14
+ Turn 141 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002120 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001354 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 15
+ Turn 142 with 8 sequences
+   Nb lignes et nb colonnes (8, 8)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002125 s
+   Number of composantes: 8 s
+   Number of sequences: 8 s
+   Cluster time: 0.001310 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 16
+ Turn 143 with 5 sequences
+   Nb lignes et nb colonnes (5, 5)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002069 s
+   Number of composantes: 5 s
+   Number of sequences: 5 s
+   Cluster time: 0.001267 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 17
+ Turn 144 with 9 sequences
+   Nb lignes et nb colonnes (9, 9)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002105 s
+   Number of composantes: 9 s
+   Number of sequences: 9 s
+   Cluster time: 0.001287 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 18
+ Turn 145 with 21 sequences
+   Nb lignes et nb colonnes (21, 21)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002447 s
+   Number of composantes: 21 s
+   Number of sequences: 21 s
+   Cluster time: 0.001522 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 146 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002046 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001270 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 18
+ Turn 147 with 25 sequences
+   Nb lignes et nb colonnes (25, 25)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002382 s
+   Number of composantes: 25 s
+   Number of sequences: 25 s
+   Cluster time: 0.001622 s
+   Mate pair values: 1.000000 and 0.916667
+___________________
+Queue length: 19
+ Turn 148 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002107 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001311 s
+   Mate pair values: 0.500000 and 1.000000
+___________________
+Queue length: 18
+ Turn 149 with 12 sequences
+   Nb lignes et nb colonnes (12, 12)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002204 s
+   Number of composantes: 12 s
+   Number of sequences: 12 s
+   Cluster time: 0.001411 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 150 with 3 sequences
+   Nb lignes et nb colonnes (3, 3)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002069 s
+   Number of composantes: 3 s
+   Number of sequences: 3 s
+   Cluster time: 0.001219 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 18
+ Turn 151 with 4 sequences
+   Nb lignes et nb colonnes (4, 4)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002046 s
+   Number of composantes: 4 s
+   Number of sequences: 4 s
+   Cluster time: 0.001289 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 19
+ Turn 152 with 16 sequences
+   Nb lignes et nb colonnes (16, 16)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002237 s
+   Number of composantes: 16 s
+   Number of sequences: 16 s
+   Cluster time: 0.001376 s
+   Mate pair values: 0.000000 and 1.000000
+___________________
+Queue length: 18
+ Turn 153 with 84 sequences
+   Nb lignes et nb colonnes (84, 84)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.009283 s
+   Number of composantes: 84 s
+   Number of sequences: 84 s
+   Cluster time: 0.003379 s
+   Mate pair values: 0.571429 and 1.000000
+___________________
+Queue length: 17
+ Turn 154 with 11 sequences
+   Nb lignes et nb colonnes (11, 11)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002173 s
+   Number of composantes: 11 s
+   Number of sequences: 11 s
+   Cluster time: 0.001337 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 16
+ Turn 155 with 4 sequences
+   Nb lignes et nb colonnes (4, 4)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002059 s
+   Number of composantes: 4 s
+   Number of sequences: 4 s
+   Cluster time: 0.001224 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 17
+ Turn 156 with 3 sequences
+   Nb lignes et nb colonnes (3, 3)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002036 s
+   Number of composantes: 3 s
+   Number of sequences: 3 s
+   Cluster time: 0.001300 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 16
+ Turn 157 with 6 sequences
+   Nb lignes et nb colonnes (6, 6)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002070 s
+   Number of composantes: 6 s
+   Number of sequences: 6 s
+   Cluster time: 0.001250 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 15
+ Turn 158 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002095 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001230 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 14
+ Turn 159 with 3 sequences
+   Nb lignes et nb colonnes (3, 3)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002003 s
+   Number of composantes: 3 s
+   Number of sequences: 3 s
+   Cluster time: 0.001278 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 13
+ Turn 160 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002063 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001395 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 12
+ Turn 161 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002096 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001300 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 11
+ Turn 162 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002032 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001260 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 10
+ Turn 163 with 19 sequences
+   Nb lignes et nb colonnes (19, 19)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002272 s
+   Number of composantes: 19 s
+   Number of sequences: 19 s
+   Cluster time: 0.001708 s
+   Mate pair values: 1.000000 and 1.000000
+___________________
+Queue length: 11
+ Turn 164 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002055 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001182 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 10
+ Turn 165 with 12 sequences
+   Nb lignes et nb colonnes (12, 12)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002170 s
+   Number of composantes: 12 s
+   Number of sequences: 12 s
+   Cluster time: 0.001385 s
+   Mate pair values: 1.000000 and 0.750000
+___________________
+Queue length: 9
+ Turn 166 with 13 sequences
+   Nb lignes et nb colonnes (13, 13)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002179 s
+   Number of composantes: 13 s
+   Number of sequences: 13 s
+   Cluster time: 0.001352 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 8
+ Turn 167 with 7 sequences
+   Nb lignes et nb colonnes (7, 7)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002111 s
+   Number of composantes: 7 s
+   Number of sequences: 7 s
+   Cluster time: 0.001292 s
+   Mate pair values: 0.000000 and 1.000000
+___________________
+Queue length: 7
+ Turn 168 with 5 sequences
+   Nb lignes et nb colonnes (5, 5)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002067 s
+   Number of composantes: 5 s
+   Number of sequences: 5 s
+   Cluster time: 0.001280 s
+   Mate pair values: 1.000000 and 0.000000
+___________________
+Queue length: 6
+ Turn 169 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002037 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001237 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 5
+ Turn 170 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002097 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001271 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 4
+ Turn 171 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.001995 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001223 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 3
+ Turn 172 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002054 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001279 s
+   Mate pair values: 0.000000 and 0.000000
+___________________
+Queue length: 2
+ Turn 173 with 17 sequences
+   Nb lignes et nb colonnes (17, 17)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002216 s
+   Number of composantes: 17 s
+   Number of sequences: 17 s
+   Cluster time: 0.001425 s
+   Mate pair values: 0.400000 and 1.000000
+___________________
+Queue length: 1
+ Turn 174 with 2 sequences
+   Nb lignes et nb colonnes (2, 2)
+   Ratio of explicative variable: 1.000000
+   Distance time: 0.002026 s
+   Number of composantes: 2 s
+   Number of sequences: 2 s
+   Cluster time: 0.001210 s
+   Mate pair values: 0.000000 and 0.000000
+Time classification: 26639.789859 s
+Time full: 26815.644207 s
