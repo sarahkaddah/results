@@ -1,0 +1,44 @@
+[1] "Chlorocebus_sabaeus_kmers52_pm095_fs0.0034.dat"
+[1] "Dimension du tableau:" "29842"                 "2"                    
+[1] "Nombre de familles:" "59"                 
+[1] "Nombre de famille de taille < 100:" "29"                                
+[1] "Nombre de famille de taille > 100:" "30"                                
+[1] "Petites familles: cluster associé au nombre de séquences:"
+   NumCluster NbSeq
+9          39     2
+12         42     2
+20         50     2
+22         52     2
+23         53     2
+24         54     2
+29         59     2
+18         48     3
+25         55     3
+27         57     3
+26         56     4
+28         58     5
+16         46     6
+21         51     7
+11         41    10
+19         49    10
+8          38    16
+15         45    18
+17         47    19
+10         40    21
+13         43    25
+2          22    32
+14         44    34
+4          28    40
+3          27    55
+5          35    60
+6          36    73
+1          20    82
+7          37    87
+[1] "Nombre total de séquences dans les petites familles:"
+[2] "627"                                                 
+[1] "Pourcentage de séquences dans les petites familles:"
+[2] "2.10106561222438"                                   
+[1] "Pourcentage de séquences dans les grandes familles:"
+[2] "97.8989343877756"                                   
+null device 
+          1 
